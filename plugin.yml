@@ -1,0 +1,7 @@
+name: Workbench_PLUS
+version: '${project.version}'
+main: workbench.workbench.Workbench
+
+commands:
+  wb:
+    description: The Workbench+ plugin command.
